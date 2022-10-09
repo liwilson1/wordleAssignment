@@ -55,6 +55,7 @@ class Player:
       self.errorMsg = ""
       self.ready = False
 
+      os.system('color')
       if not os.path.exists(playerFile):
          print("Error! Agent file '%s.py' not found" % self.playerFile)
          sys.exit(-1)
