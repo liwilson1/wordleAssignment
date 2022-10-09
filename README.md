@@ -11,7 +11,7 @@ py wordle.py
 With verbose mode on, you will see the results of each game and the average score (the number of guesses it took) after 
 each game. The random agent chooses a word randomly each time, to see its performance, change the agent in settings.py
 
-## How does it work
+## How does it work?
 The goal is to make a Wordle agent that can solve a Wordle with the state of the game as percepts.
 
 The agent function takes the percepts as input and outputs a guess for the next word.
