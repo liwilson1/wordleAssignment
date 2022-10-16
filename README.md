@@ -1,4 +1,4 @@
-# COSC 343 Wordle Assignment.
+# COSC Wordle Assignment.
 
 ## How to run
 Settings are changed in settings.py, where you can change language, number of guesses, amount of games, word length, 
