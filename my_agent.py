@@ -1,5 +1,5 @@
 __author__ = "Liam Wilson"
-__organization__ = "COSC343/AIML402, University of Otago"
+__organization__ = "University of Otago"
 __email__ = "wilia832@student.otago.ac.nz"
 
 import helper

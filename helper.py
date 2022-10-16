@@ -1,5 +1,5 @@
 __author__ = "Lech Szymanski"
-__organization__ = "COSC343/AIML402, University of Otago"
+__organization__ = "University of Otago"
 __email__ = "lech.szymanski@otago.ac.nz"
 __date__ = "July 2022"
 
